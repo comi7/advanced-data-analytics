@@ -13,7 +13,7 @@ ENV/
 .ipynb_checkpoints/
 
 # DataSpell / PyCharm
-.idea/
+../.idea/
 
 # OS
 .DS_Store
